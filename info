@@ -3,3 +3,8 @@ Python версии 3: python3 --version
 Python версии 2: python --version
 
 Запуск файла в терминале: python3 hello.py
+
+Python shell: https://www.python.org/shell/
+
+Строки и их методы
+https://www.youtube.com/watch?v=GmMD6gQYWe4&ab_channel=egoroff_channel
