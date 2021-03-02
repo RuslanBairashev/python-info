@@ -1,0 +1,5 @@
+Как посмотреть версию Python в терминале Linux?
+Python версии 3: python3 --version
+Python версии 2: python --version
+
+Запуск файла в терминале: python3 hello.py
